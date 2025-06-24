@@ -1,0 +1,21 @@
+Git
+
+-> Code Repository
+
+-> Version Control Software
+
+There are two parts for Git
+
+->Git Hub(Cloud)
+ 
+->Git Client(Local)
+
+git config --list
+
+git config --global user.name "username"
+
+git config --global user.email "useremail"
+
+git status
+
+git add <filename>/--all
