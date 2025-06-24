@@ -1,0 +1,14 @@
+git config --list
+git config 
+git status
+git add (file name)
+git commit -m "purpose"
+git push -u origin main
+git clone https://github.com/sivaprasad2848/newcsbatch.git
+
+git pull
+git log
+git branch
+git branch--all
+git checkout -b feature1
+git merge main
